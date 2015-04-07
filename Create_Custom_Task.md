@@ -1,0 +1,1 @@
+This page has been moved to the <a href='http://osupdocs.forestry.oregonstate.edu/index.php/Writing_a_Custom_Task'>OSUPDocs Wiki</a>.

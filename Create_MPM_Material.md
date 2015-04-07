@@ -1,0 +1,1 @@
+This page has moved to the <a href='http://osupdocs.forestry.oregonstate.edu/index.php/Creating_MPM_Materials'>OSUPDocs Wiki</a>.

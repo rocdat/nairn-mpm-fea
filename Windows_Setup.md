@@ -1,0 +1,1 @@
+This page has been moved to the <a href='http://osupdocs.forestry.oregonstate.edu/index.php/Compiling_in_Windows#Installing_and_Setting_Up_cygwin'>OSUPDocs Wiki</a>
